@@ -9,7 +9,7 @@ float[] m = new float[PARTICLES_QUANTITY];
 void setup() {
   size(800, 800);
   stroke(64, 255, 255);
-  fill(30, 15);
+  fill(0, 15);
   for (int i = 0; i < PARTICLES_QUANTITY; ++ i) {
       m[i] = randomGaussian() * 16;
       positionX[i] = random(width);
