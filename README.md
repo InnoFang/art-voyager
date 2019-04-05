@@ -1,6 +1,6 @@
-# art-voyager
-To imagine, to learn, to try
+# Art Voyager
 
+To Imagine, To Learn, To Try.
 
 ### Star Cloud
 
