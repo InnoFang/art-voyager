@@ -1,4 +1,4 @@
-final int PARTICLES_QUANTITY = 23333;
+final int PARTICLES_QUANTITY = 20000;
 
 float[] positionX = new float[PARTICLES_QUANTITY];
 float[] positionY = new float[PARTICLES_QUANTITY];
