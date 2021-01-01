@@ -2,4 +2,8 @@
 
 &nbsp; | &nbsp; | &nbsp;
 -------|--------|-------
-<img src="https://cdn.jsdelivr.net/gh/innofang/art-voyager/SpaceDislocation/SpaceDislocation.gif" style="zoom:60%;" /> |  <img src="https://cdn.jsdelivr.net/gh/innofang/art-voyager/StarCloud/StarCloud.gif" style="zoom:60%;" /> | <img src="https://cdn.jsdelivr.net/gh/innofang/art-voyager/StarDust/StarDust.gif" style="zoom:60%;" />
+![StarDust][StarDust] | ![StarCloud][StarCloud] | ![SpaceDislocation][SpaceDislocation]
+
+[StarDust]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/StarDust/StarDust.gif
+[StarCloud]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/StarCloud/StarCloud.gif
+[SpaceDislocation]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/SpaceDislocation/SpaceDislocation.gif
