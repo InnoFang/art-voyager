@@ -3,7 +3,7 @@
 - | - | -
 -------|--------|-------
 [![][StarWar]][StarWar_code] | [![][SpiderMan]][SpiderMan_code] | [![][Totoro]][Totoro_code] 
-[![][sketch1]][sketch1_code]||
+[![][diagonal]][diagonal_code]||
 
 <!-- 
 [![][StarDust]][StarDust_code] | [![][StarCloud]][StarCloud_code] | [![][SpaceDislocation]][SpaceDislocation_code]
@@ -21,5 +21,5 @@
 [SpiderMan_code]:./sketch/SpiderMan/SpiderMan.pde
 [Totoro]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/Totoro/demo.jpg
 [Totoro_code]:./sketch/Totoro/Totoro.pde
-[sketch1]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/sketch20210102a/demo.jpg
-[sketch1_code]:./sketch/sketch20210102a/sketch20210102a.pde
+[diagonal]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/diagonal/demo.jpg
+[diagonal_code]:./sketch/diagonal/diagonal.pde
