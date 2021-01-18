@@ -3,7 +3,7 @@
 - | - | -
 -------|--------|-------
 [![][StarWar]][StarWar_code] | [![][SpiderMan]][SpiderMan_code] | [![][Totoro]][Totoro_code] 
-[![][diagonal]][diagonal_code]|&nbsp;|&nbsp;
+[![][diagonal]][diagonal_code]|[![][Mosaic]][Mosaic_code]|&nbsp;
 
 <!-- 
 [![][StarDust]][StarDust_code] | [![][StarCloud]][StarCloud_code] | [![][SpaceDislocation]][SpaceDislocation_code]
@@ -23,3 +23,5 @@
 [Totoro_code]:./sketch/Totoro/Totoro.pde
 [diagonal]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/diagonal/demo.jpg
 [diagonal_code]:./sketch/diagonal/diagonal.pde
+[Mosaic]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/Mosaic/demo.jpg
+[Mosaic_code]:./sketch/Mosaic/Mosaic.pde
