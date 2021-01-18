@@ -3,7 +3,7 @@
 - | - | -
 -------|--------|-------
 [![][StarWar]][StarWar_code] | [![][SpiderMan]][SpiderMan_code] | [![][Totoro]][Totoro_code] 
-[![][diagonal]][diagonal_code]||
+[![][diagonal]][diagonal_code]|&nbsp;|&nbsp;
 
 <!-- 
 [![][StarDust]][StarDust_code] | [![][StarCloud]][StarCloud_code] | [![][SpaceDislocation]][SpaceDislocation_code]
