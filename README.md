@@ -3,7 +3,7 @@
 - | - | -
 -------|--------|-------
 [![][StarWar]][StarWar_code] | [![][SpiderMan]][SpiderMan_code] | [![][Totoro]][Totoro_code] 
-[![][diagonal]][diagonal_code]|[![][Mosaic]][Mosaic_code]|&nbsp;
+[![][diagonal]][diagonal_code] | [![][Mosaic]][Mosaic_code] | [![][CurveOrNot]][CurveOrNot_code]
 
 <!-- 
 [![][StarDust]][StarDust_code] | [![][StarCloud]][StarCloud_code] | [![][SpaceDislocation]][SpaceDislocation_code]
@@ -25,3 +25,5 @@
 [diagonal_code]:./sketch/diagonal/diagonal.pde
 [Mosaic]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/Mosaic/demo.jpg
 [Mosaic_code]:./sketch/Mosaic/Mosaic.pde
+[CurveOrNot]:https://cdn.jsdelivr.net/gh/innofang/art-voyager/sketch/CurveOrNot/demo.jpg
+[CurveOrNot_code]:./sketch/CurveOrNot/CurveOrNot.pde
