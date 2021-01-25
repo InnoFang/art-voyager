@@ -1,6 +1,6 @@
 # Art Voyager
 
-- | - | -
+&nbsp; | &nbsp; | &nbsp;
 -------|--------|-------
 [![][StarWar]][StarWar_code] | [![][SpiderMan]][SpiderMan_code] | [![][Totoro]][Totoro_code] 
 [![][diagonal]][diagonal_code] | [![][Mosaic]][Mosaic_code] | [![][CurveOrNot]][CurveOrNot_code]
